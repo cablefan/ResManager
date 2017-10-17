@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.586,=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.789,=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.514,=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.214,=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.981,=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017-10-17 13:10:37.706,=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017-10-17 13:10:51.154,D:\Delphi\2017\ResManager\u_frmTest.pas=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2017-10-17 13:10:51.154,D:\Delphi\2017\ResManager\u_frmTest.dfm=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2017-10-17 13:10:57.276,D:\Delphi\2017\ResManager\ResManager.dproj=C:\Users\Cable\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="AVD"/>
+	</ActiveMobileDevice>
+</BorlandProject>
